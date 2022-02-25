@@ -1,1 +1,1 @@
-# aws-lambda-blender-module
+# AWS Lambda Python Container Image with Blender Module
