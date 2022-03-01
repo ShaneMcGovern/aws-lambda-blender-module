@@ -39,10 +39,10 @@ Invoke-WebRequest -Method POST -Uri "http://localhost:9090/2015-03-31/functions/
 ```
 ![Invoke the Lambda function](https://d3i68myn0yglbv.cloudfront.net/aws-lambda-blender-module_3.png)
 
-Additional guidance can be found here, [Testing Lambda container images locally](https://docs.aws.amazon.com/lambda/latest/dg/images-test.html).
+Additional guidance can be found here at [Testing Lambda container images locally](https://docs.aws.amazon.com/lambda/latest/dg/images-test.html).
 
 ## Acknowledgements
-- JR Beaudoin's bog post [Rendering Blender scenes in the cloud with AWS Lambda](https://blog.theodo.com/2021/08/blender-serverless-lambda/).
+- J.R. Beaudoin's blog post [Rendering Blender scenes in the cloud with AWS Lambda](https://blog.theodo.com/2021/08/blender-serverless-lambda/).
 
 ## Contact
 Created by [@shanemcgovern](https://shanemcgovern.github.io/)
