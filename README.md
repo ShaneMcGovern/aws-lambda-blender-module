@@ -1,7 +1,7 @@
 # AWS Lambda Blender Module
 
 ## Description
-A Docker image that builds [Blender as a Python module](https://wiki.blender.org/wiki/Building_Blender/Other/BlenderAsPyModule) for use in [AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html).
+A Docker image that builds [Blender 2.93 as a Python module](https://wiki.blender.org/wiki/Building_Blender/Other/BlenderAsPyModule) for use in [AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html).
 
 ## What I am doing here
 This Git repository and its Dockerfile allow you to access Blender's feature set directly from the app.py application file used in AWS Lambda.
