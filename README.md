@@ -33,7 +33,7 @@ docker run -d -p 9090:8080 aws-lambda-blender-module
 ```
 ![Run the container image](https://d3i68myn0yglbv.cloudfront.net/aws-lambda-blender-module_2.png)
 
-Invoke the Lambda function:
+Invoke the Lambda function. Using PowerShell in this example:
 ```
 Invoke-WebRequest -Method POST -Uri "http://localhost:9090/2015-03-31/functions/function/invocations" -Body '{}'
 ```
